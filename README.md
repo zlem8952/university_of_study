@@ -4,54 +4,63 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/zlem8952/university_of_study)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zlem8952/university_of_study)
 ![GitHub language count](https://img.shields.io/github/languages/count/zlem8952/university_of_study)
-![Study](https://img.shields.io/badge/purpose-university%20study-blue)
-![GitHub repo stars](https://img.shields.io/github/stars/zlem8952/university_of_study?style=social)
+![Visitors](https://komarev.com/ghpvc/?username=zlem8952&repo=university_of_study)
+![Purpose](https://img.shields.io/badge/purpose-university%20study-blue)
+
+대학교 수업 자료, 과제, 공부 기록을 정리하는 저장소입니다.
 
 ---
 
-## 📖 About
+## About
 
-This repository contains my **university coursework, assignments, and study notes**.
-
-It is used to record and organize what I learn during my university studies.
+This repository is used to organize my university coursework, assignments, and study notes.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
-* Record lecture notes and study materials
-* Store programming exercises and assignments
-* Track learning progress throughout university
-
----
-
-## 🧠 Topics
-
-* Programming (C / Java)
-* Computer Science Fundamentals
-* Data Structures
-* Algorithms
-* University Assignments
+- Record lecture notes
+- Upload assignments and practice files
+- Keep track of what I studied
+- Save materials for later review
 
 ---
 
-## 🛠 Languages & Tools
+## Subjects
 
-* C
-* Java
-* Git
-* GitHub
-* Markdown
-
----
-
-## ✏️ Note
-
-This repository is mainly for **learning and academic record keeping**.
-Some code may be simple exercises or lecture examples.
+- C
+- Java
+- Data Structures
+- Algorithms
+- Computer Science
 
 ---
 
-## 👨‍💻 Author
+## Tools
 
-GitHub: https://github.com/zlem8952
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zlem8952&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zlem8952&layout=compact)
+
+---
+
+## Note
+
+This repository is mainly for study and academic record keeping.  
+Some files may include lecture examples, simple practice code, or assignments.
+
+---
+
+## Author
+
+GitHub: [zlem8952](https://github.com/zlem8952)
